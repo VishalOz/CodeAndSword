@@ -1,4 +1,4 @@
-# JavaRPG-Adventure 🎮
+# JavaRPG-Adventure 
 
 A turn-based RPG console game built in **Java**, showcasing **Object-Oriented Programming** (OOP) concepts through an engaging battle system between the player and various enemies.
 
@@ -27,7 +27,7 @@ A turn-based RPG console game built in **Java**, showcasing **Object-Oriented Pr
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Java (Console-based)
 - Object-Oriented Programming
